@@ -9,7 +9,7 @@
 ![PaaS](https://img.shields.io/badge/PaaS-Platform%20as%20a%20Service-34A853?style=flat&logo=heroku&logoColor=white)
 ![GPUaaS](https://img.shields.io/badge/GPUaaS-GPU%20as%20a%20Service-76B900?style=flat&logo=nvidia&logoColor=white)
 
-### 🚀 DevOps, CI/CD & GitOps
+### 🚀 DevOps, CI/CD & GitOps & Packaging
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell%20Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
@@ -25,7 +25,7 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Kubespray](https://img.shields.io/badge/Kubespray-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### 🚢 Containers, Kubernetes & Packaging
+### 🚢 Kubernetes & Containers 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![containerd](https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
